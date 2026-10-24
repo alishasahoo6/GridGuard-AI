@@ -1,0 +1,29 @@
+# ==============================================================================
+# GridGuard AI — Core Dependency Specifications
+# ==============================================================================
+
+# Core Numerical & Data Processing
+numpy>=1.26.0
+pandas>=2.2.0
+
+# Machine Learning & Statistical Modeling
+scikit-learn>=1.4.0
+
+# Interactive Dashboard & Data Visualization
+streamlit>=1.35.0
+plotly>=5.20.0
+
+# Configuration, Schema & Environment Management
+python-dotenv>=1.0.0
+pydantic>=2.7.0
+
+# Automated Testing Framework
+pytest>=8.0.0
+
+# Backend API & Asynchronous Services (Future Phases)
+fastapi>=0.111.0
+uvicorn>=0.30.0
+
+# Telemetry Transport (Optional Streaming Protocol)
+paho-mqtt>=2.1.0
+
